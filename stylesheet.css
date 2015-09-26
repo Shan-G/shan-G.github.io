@@ -31,10 +31,11 @@ hr{
 img{
   top:10px;
   position: absolute;
-  padding:20px 30px 0px 0px;
+  margin:20px 30px 0px 0px;
   width: 200px;
   height: 200px;
   right:13px;
+  border:2px solid purple;
   transform: rotate(-7deg);
 }
 
